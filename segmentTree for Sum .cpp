@@ -1,3 +1,5 @@
+//this is for findinng sum in certain interval better we can create for finding max number in certain interval
+
 class Solution {
 public:
     struct segmentTree{
